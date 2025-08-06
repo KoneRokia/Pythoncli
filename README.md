@@ -43,7 +43,7 @@ L'outil repose sur deux options principales :
 
   -Footprint
 
-- Enum
+  -Enum
   
 ## Exemple d'utilisation
 
@@ -52,7 +52,9 @@ L'outil repose sur deux options principales :
 
     msrgpt --option Enum --prompt "Enumérer toutes les adresses IP du réseau 192.168.1.0"
 
-
+## Remarques
+- Outil compatible uniquement avec Kali Linux.
+- Une connexion Internet est recommandée pour certaines fonctionnalités.
 
 
 
