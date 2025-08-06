@@ -21,6 +21,7 @@ git clone https://github.com/KoneRokia/Pythoncli.git
 ## Configuration du PATH
 
     export PATH="/chemin/vers/le/projet:$PATH"
+Pour que cela soit permanent, ajoute cette ligne dans ~/.bashrc ou ~/.zshrc.
 
 ## Authentification
   ### Inscription
@@ -47,6 +48,9 @@ L'outil repose sur deux options principales :
 ## Exemple d'utilisation
 
     msrgpt -o Scan -p "Scanner toutes les adresses IP du réseau 192.168.1.0"
+## Ou :
+
+    msrgpt --option Enum --prompt "Enumérer toutes les adresses IP du réseau 192.168.1.0"
 
 
 
