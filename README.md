@@ -26,4 +26,7 @@ export PATH="/chemin/vers/le/projet:$PATH"
 
 ## 🔐 Authentification
   #Inscription
+      ```bash
+msrgpt register
+
 
