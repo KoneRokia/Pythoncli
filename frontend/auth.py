@@ -50,7 +50,7 @@ def login():
 
 
 def save_token(token):
-    with open('TOKEN_FILE', 'w') as f:
+    with open(TOKEN_FILE, 'w') as f:
         f.write(token)
 
 
