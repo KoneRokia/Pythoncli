@@ -1,2 +1,2 @@
 Nom outil: msrgpt 
-comment i
+comment installer: faire git clone 
