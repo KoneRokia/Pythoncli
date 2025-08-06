@@ -19,3 +19,11 @@
 
 ```bash
 git clone https://github.com/KoneRokia/Pythoncli.git
+
+## Configuration du PATH
+
+export PATH="/chemin/vers/le/projet:$PATH"
+
+## 🔐 Authentification
+  #Inscription
+
