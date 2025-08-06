@@ -23,12 +23,12 @@ git clone https://github.com/KoneRokia/Pythoncli.git
     export PATH="/chemin/vers/le/projet:$PATH"
 
 ## Authentification
-  # Inscription
+  ### Inscription
       msrgpt register
-  # Connexion
+  ### Connexion
       msrgpt login
       
-  # Déconnexion
+  ### Déconnexion
       msrgpt logout
 ## Utilisation de l'outil
     L'outil repose sur deux options principales :
