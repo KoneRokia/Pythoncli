@@ -1,10 +1,10 @@
-# 🔍 msrgpt
+#msrgpt
 
 **msrgpt** est un outil CLI (interface en ligne de commande) conçu pour effectuer des recherches automatisées en **footprinting**, **énumération** et **scanning**, à l'aide de prompts naturels. Il est spécialement conçu pour s'exécuter sous **Kali Linux**.
 
 ---
 
-## 📌 Fonctionnalités principales
+##  Fonctionnalités principales
 
 - Exécution de requêtes de type "prompt" pour effectuer des actions de hacking éthique.
 - Support des opérations : `Scan`, `Footprint`, `Enum`.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clonez le dépôt Git :
 
@@ -24,9 +24,33 @@ git clone https://github.com/KoneRokia/Pythoncli.git
 
 export PATH="/chemin/vers/le/projet:$PATH"
 
-## 🔐 Authentification
+## Authentification
   #Inscription
-      ```bash
+
+```bash
 msrgpt register
+
+#Connection
+
+```bash
+msrgpt login
+
+#Déconnexion
+
+```bash
+msrgpt logout
+
+## Utilisation de l'outil
+L'outil repose sur deux options principales :
+
+.-p ou --prompt : pour écrire la requête en langage naturel.
+
+.-o ou --option : pour choisir l'action à effectuer. Les options disponibles sont :
+
+Scan
+
+Footprint
+
+Enum
 
 
