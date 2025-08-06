@@ -31,7 +31,8 @@ git clone https://github.com/KoneRokia/Pythoncli.git
   ### Déconnexion
       msrgpt logout
 ## Utilisation de l'outil
-    L'outil repose sur deux options principales :
+    
+L'outil repose sur deux options principales :
 
 - -p ou --prompt : pour entrer la commande à exécuter en langage naturel.
 
@@ -42,6 +43,9 @@ git clone https://github.com/KoneRokia/Pythoncli.git
   -Footprint
 
 - Enum
+  
+## Exemple d'utilisation
+msrgpt -o Scan -p "Scanner toutes les adresses IP du réseau 192.168.1.0"
 
 
 
