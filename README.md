@@ -55,6 +55,7 @@ L'outil repose sur deux options principales :
 ## Remarques
 - Outil compatible uniquement avec Kali Linux.
 - Une connexion Internet est recommandée pour certaines fonctionnalités.
+- Ce projet est open-source.
 
 
 
