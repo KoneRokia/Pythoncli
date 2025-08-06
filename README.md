@@ -16,7 +16,7 @@
 
 ### 1. Clonez le dépôt Git
 
-git clone https://github.com/KoneRokia/Pythoncli.git
+    git clone https://github.com/KoneRokia/Pythoncli.git
 
 ## Configuration du PATH
 
