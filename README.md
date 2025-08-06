@@ -45,7 +45,8 @@ L'outil repose sur deux options principales :
 - Enum
   
 ## Exemple d'utilisation
-msrgpt -o Scan -p "Scanner toutes les adresses IP du réseau 192.168.1.0"
+
+    msrgpt -o Scan -p "Scanner toutes les adresses IP du réseau 192.168.1.0"
 
 
 
