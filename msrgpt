@@ -1,0 +1,5 @@
+#!/usr/bin/env pythons
+from frontend.main import main
+
+if "__main__ " == "__main__":
+    main()
