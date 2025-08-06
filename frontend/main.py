@@ -1,10 +1,10 @@
-from utils import menu
-from auth import register
-from auth import login
-from auth import verifyOtp
-from api import send_prompt
+from .utils import menu
+from .auth import register
+from .auth import login
+from .auth import verifyOtp
+from .api import send_prompt
 import argparse
-from auth import logout
+from .auth import logout
 
 def cli_mode():
     parser = argparse.ArgumentParser(prog="msrgpt", description="MSRGPT CLI")
