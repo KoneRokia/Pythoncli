@@ -29,5 +29,20 @@ git clone https://github.com/KoneRokia/Pythoncli.git
       msrgpt login
       
   # Déconnexion
-      
+      msrgpt logout
+## Utilisation de l'outil
+    L'outil repose sur deux options principales :
+
+- -p ou --prompt : pour entrer la commande à exécuter en langage naturel.
+
+- -o ou --option : pour définir l'action à effectuer. Les options disponibles sont :
+
+  -Scan
+
+  -Footprint
+
+- Enum
+
+
+
 
