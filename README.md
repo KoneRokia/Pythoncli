@@ -1,1 +1,2 @@
-"# Pythoncli" 
+Nom outil: msrgpt 
+comment i
