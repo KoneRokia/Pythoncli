@@ -57,5 +57,8 @@ L'outil repose sur deux options principales :
 - Une connexion Internet est recommandée pour certaines fonctionnalités.
 - Ce projet est open-source.
 
+## Conclusion
+L'outil msrgpt a été conçu pour simplifier l'exécution de tâches essentielles en cybersécurité comme le scanning, le footprinting et l’énumération, grâce à une interface intuitive en ligne de commande. Il s'adresse principalement aux passionnés de hacking éthique et aux professionnels souhaitant automatiser certaines recherches sous Kali Linux.
+N’hésitez pas à tester l’outil, proposer des améliorations ou contribuer au projet !
 
 
