@@ -19,5 +19,7 @@
 ```bash
 git clone https://github.com/KoneRokia/Pythoncli.git
 
+---
+
 ## Authentification
 # Inscription
