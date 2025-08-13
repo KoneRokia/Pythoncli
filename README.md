@@ -22,7 +22,7 @@
 
     export PATH="/chemin/vers/le/projet:$PATH"
 
-    echo $HOME pour le chemin
+    echo $HOME pour voir le chemin
 Pour que cela soit permanent, ajoute cette ligne dans ~/.bashrc ou ~/.zshrc.
 
 ## Authentification
